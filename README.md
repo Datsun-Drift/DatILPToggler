@@ -20,7 +20,7 @@ Debug Off:
 
 ![image](https://user-images.githubusercontent.com/98725077/218623481-cf87d3db-6d00-4b00-bf91-bed24c1e6679.png)
   
-__Command:
+Command:
   The command is /ipltoggle arg1 arg2
   arg1: IPL / ymap name  This is converted to string automatically so no need for qoutes
   arg2: on / off / blank  on enables the ipl/ymap, off disables the ipl/ymap and leaving blank toggles the state
